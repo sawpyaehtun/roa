@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="back">Back</string>
+    <string name="zero">0</string>
+    <string name="enter">Enter</string>
+    <string name="six">6</string>
+    <string name="password">Password</string>
+    <string name="dialog_simple_error_title">The operation could not be completed.</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="dialog_simple_error_message">An error report has been sent to Haulio. Thank you.</string>
+    <string name="dialog_common_error_title">Error</string>
+</resources>
